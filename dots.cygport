@@ -1,0 +1,14 @@
+inherit gnome2
+
+NAME="dots"
+VERSION=0.1.2
+RELEASE=2
+CATEGORY="Accessibility"
+SUMMARY="GNOME braille translator"
+DESCRIPTION="Dots is a braille translation application for the GNOME desktop."
+
+REQUIRES="antiword girepository-Poppler0.16"
+
+DIFF_EXCLUDES="bin host_settings.py"
+
+ACLOCAL_FLAGS="-I m4"

@@ -1,4 +1,0 @@
-category: Accessibility
-requires: antiword GConf2 liblouisxml1 python python-gconf2 python-gi python-gobject python-gtk2.0 python-odf girepository-Poppler0.16
-sdesc: "GNOME braille translator"
-ldesc: "Dots is a braille translation application for the GNOME desktop."
